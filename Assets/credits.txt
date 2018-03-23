@@ -1,1 +1,8 @@
+*Work non-listed is written by Davidi Development
+
+*---Scripts---
+TextMeshPro by Digital Native Studios
+iTween by Pixel Placement
+
+*---Graphics---
 Sparkle particle by Julien @ opengameart.org
